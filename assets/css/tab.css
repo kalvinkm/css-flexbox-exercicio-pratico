@@ -1,0 +1,37 @@
+.container {
+    max-width: 1000px;
+    height: 97vh;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #000;
+    background-color: #108776;
+}
+
+img {
+    width: 180px;
+    display: block;
+    margin: 0 auto;
+}
+
+.frog-01,
+.frog-02,
+.frog-03 {
+    margin: 10px;
+    width: 180px;
+}
+
+.frog-01 {
+    background-color: #4ddb5274;;
+    border-radius: 50%;
+    
+}
+
+.frog-02 {
+    background-color: #dbd94d7c;
+    border-radius: 50%;
+}
+
+.frog-03 {
+    background-color: #db574d7b;
+    border-radius: 50%;
+}
